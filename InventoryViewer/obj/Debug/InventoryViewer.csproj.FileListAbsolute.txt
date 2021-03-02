@@ -1,0 +1,16 @@
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\bin\Debug\InventoryViewer.exe.config
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\bin\Debug\InventoryViewer.exe
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\bin\Debug\InventoryViewer.pdb
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.frmMain.resources
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.Properties.Resources.resources
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.csproj.GenerateResource.cache
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.csproj.CoreCompileInputs.cache
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.exe
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.pdb
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\bin\Debug\MaterialSkin.dll
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.csproj.CopyComplete
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.frmAdd.resources
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.frmEdit.resources
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.frmSettings.resources
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.frmTutarial.resources
+C:\Users\falle\source\repos\InventoryViewer\InventoryViewer\obj\Debug\InventoryViewer.csprojAssemblyReference.cache
